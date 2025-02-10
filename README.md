@@ -9,7 +9,7 @@ This is a tutorial to understanding the basic commands of git and github
 
 ## Contents
 ### Code Examples
-
+```python print(2+1) ```
 
 ## References
 - [Github Documentation])(https://docs.github.com/en)
